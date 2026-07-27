@@ -166,7 +166,7 @@ For a better setup, store the topic in an environment variable instead of writin
 
 ## Author
 
-**Sakhoyat Hossain Siam**
+Md Sakhoyat Hossain Siam
 
 ## Licence
 
