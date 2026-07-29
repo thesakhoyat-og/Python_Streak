@@ -153,7 +153,6 @@ This shows that imported Python files receive their module name instead of `"__m
 
 An ntfy topic is not a real password. Anyone who knows the topic name may be able to publish notifications to it, so avoid simple or public topic names.
 
-For a better setup, store the topic in an environment variable instead of writing it directly in the source code.
 
 ## Future Improvements
 
