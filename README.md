@@ -1,4 +1,4 @@
-# Python Streak Reminder
+# Python Streak Notifier
 
 Python Streak Reminder is a small Python automation project that sends a motivational notification to a phone using the [ntfy](https://ntfy.sh/) notification service.
 
