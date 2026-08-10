@@ -167,6 +167,3 @@ An ntfy topic is not a real password. Anyone who knows the topic name may be abl
 
 Md Sakhoyat Hossain Siam
 
-## Licence
-
-This project was created for educational and portfolio purposes.
