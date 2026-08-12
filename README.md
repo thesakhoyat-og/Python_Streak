@@ -1,8 +1,4 @@
-# Python Streak Notifier
 
-Python Streak Reminder is a small Python automation project that sends a motivational notification to a phone using the [ntfy](https://ntfy.sh/) notification service.
-
-The project also demonstrates how Python's `if __name__ == "__main__":` block works when a file is run directly versus imported into another Python file.
 
 ## Features
 
